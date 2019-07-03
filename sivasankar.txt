@@ -1,0 +1,22 @@
+Organization ID
+6yb3v7
+Device Type
+siva
+Device ID
+123
+Authentication Method
+use-token-auth
+Authentication Token
+12345678
+
+
+
+
+a-6yb3v7-0xwtwgotux....apikey
+S97bahBpU)w8c8wYsZ.....token
+
+
+
+
+msg.payload={"temperature":global.get("temperature"),"humidity":global.get("humidity"),"light":global.get("light")}
+return msg
